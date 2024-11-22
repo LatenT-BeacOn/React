@@ -4,3 +4,8 @@
     padding: 15px;
     border-radius: 15px;
 }
+
+.country_container{
+    display: grid ;
+    grid-template-columns: repeat(3,1fr);
+}
